@@ -17,6 +17,10 @@ a {
   margin: 0 auto;
 }
 
+.container span {
+  color:red;
+}
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
